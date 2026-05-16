@@ -1,0 +1,14 @@
+{
+  "name": "giorgia-braids",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Giorgia Braids — Hair Braiding Artist · Milano — static landing page",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site — no build step required'",
+    "start": "npx serve ."
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
